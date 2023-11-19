@@ -8,3 +8,6 @@ Tre push obbligatori:
 2 - Creazione del file readme.md
 3 - Creazione dello scaffolding del progetto;
 Suddividete il problema in sottoproblemi come vi ho fatto vedere per il live coding sul calcolo della data di nascita e messaggio di benvenuto mostrato in pagina.
+
+PROBLEMA: GENERAZIONE PASSWORD ATTRAVERSO JAVASCRIPT
+1 - 
